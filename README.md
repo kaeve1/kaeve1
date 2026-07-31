@@ -21,8 +21,8 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,go,python&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=react,blazor,js,html,css&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,swagger&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,typescript,js,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongedb,git,github,swagger&theme=dark" />
 
 </div>
 
@@ -31,19 +31,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=50&section=header&text=PROJETOS&fontSize=22&fontColor=58A6FF&fontAlignY=65" width="100%" />
 </div>
-
-<div align="center">
-
-<a href="https://github.com/kaeve1/good-hamburguer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaeve1&repo=good-hamburguer&bg_color=0f172a&title_color=58a6ff&icon_color=3b82f6&text_color=94a3b8&hide_border=true" /></a>
-<a href="https://github.com/kaeve1/cafecrud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaeve1&repo=cafecrud&bg_color=0f172a&title_color=58a6ff&icon_color=3b82f6&text_color=94a3b8&hide_border=true" /></a>
-
-<a href="https://github.com/kaeve1/pomodojo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaeve1&repo=pomodojo&bg_color=0f172a&title_color=58a6ff&icon_color=3b82f6&text_color=94a3b8&hide_border=true" /></a>
-<a href="https://github.com/kaeve1/atlas-fit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaeve1&repo=atlas-fit&bg_color=0f172a&title_color=58a6ff&icon_color=3b82f6&text_color=94a3b8&hide_border=true" /></a>
-
-<a href="https://github.com/kaeve1/the-knight-and-the-cat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaeve1&repo=the-knight-and-the-cat&bg_color=0f172a&title_color=58a6ff&icon_color=3b82f6&text_color=94a3b8&hide_border=true" /></a>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=3&width=100%25" width="100%" />
 
 <div align="center">
