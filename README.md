@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=200&section=header&text=Kevin%20Rosa&fontSize=46&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=94a3b8" width="100%" />
-</div>
 
-<div align="center">
+![Kevin Rosa](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=52&duration=3000&pause=100000&color=E6EDF3&background=0F172A00&center=true&vCenter=true&width=700&height=90&lines=KEVIN+ROSA)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=58A6FF&background=0F172A00&center=true&vCenter=true&width=560&lines=C%23+%2F+.NET+%E2%80%A2+Go+%E2%80%A2+Python;APIs+REST+em+arquitetura+em+camadas;pipelines+de+IA+para+dados+em+larga+escala)
 
@@ -43,19 +41,10 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=kaeve1&show_icons=true&count_private=true&bg_color=0f172a&title_color=58a6ff&icon_color=3b82f6&text_color=94a3b8&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeve1&layout=compact&bg_color=0f172a&title_color=58a6ff&text_color=94a3b8&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaeve1&background=0f172a&ring=3b82f6&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=94a3b8&currStreakNum=e6edf3&sideNums=e6edf3&dates=64748b&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaeve1&bg_color=0f172a&color=58a6ff&line=3b82f6&point=e6edf3&area=true&hide_border=true" width="100%" />
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0f172a&height=3&width=100%25" width="100%" />
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kaeve1&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=12&column=7" />
 </div>
 
 <div align="center">
