@@ -20,17 +20,21 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,go,python&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=react,typescript,js,html,css&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongedb,git,github,swagger&theme=dark" />
+<sub><b>LANGUAGES &amp; RUNTIME</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,py,ts,js&theme=dark" />
+
+<br/><br/>
+
+<sub><b>FRONTEND &amp; DATA</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,mysql,sqlite,docker&theme=dark" />
+
+<br/><br/>
+
+<sub><b>TOOLING &amp; CLOUD</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,azure&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0f172a&height=3&width=100%25" width="100%" />
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=50&section=header&text=PROJETOS&fontSize=22&fontColor=58A6FF&fontAlignY=65" width="100%" />
-</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=3&width=100%25" width="100%" />
 
 <div align="center">
